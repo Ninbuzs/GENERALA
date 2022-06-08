@@ -6,7 +6,7 @@ using namespace std;
 
 int main (){
  int opc;
-
+<<cout"test";
     cout<<"1.MODO 1 JUGADOR"<<endl;
     cout<<"2-MODO 2 JUGADORES"<<endl;
     cout<<"3.PUNTAJE MAS ALTO"<<endl;
